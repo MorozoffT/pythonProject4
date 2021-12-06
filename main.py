@@ -1,5 +1,6 @@
+# Morozoff
 def my_superfunction():
-    print('What an awesome print!')
+    print('Какой великолепный вывод!')
 
 
 def main():
